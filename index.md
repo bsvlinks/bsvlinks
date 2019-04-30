@@ -35,6 +35,7 @@ x | [Centbee](https://centbee.com/) | x
 
 | Tables   |      Are      |  Cool |
 |----------|:-------------:|------:|
-| col 1 is |  left-aligned | $1600 |
-| col 2 is |    centered   |   $12 |
-| col 3 is | right-aligned |    $1 |
+| [ElectrumSV](https://electrumsv.io/) |  [HandCash](https://handcash.io/) | [Freewallet](https://freewallet.org/) |
+| [Exodus](https://www.exodus.io/) |    [Edge](https://edge.app/)   |   x |
+| [Atomic Wallet](https://atomicwallet.io/) | [Coinomi](https://www.coinomi.com/en/) |    x |
+| x | [Centbee](https://centbee.com/) |    x |
