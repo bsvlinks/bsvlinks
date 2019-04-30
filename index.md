@@ -33,7 +33,7 @@ Desktop Wallets | Mobile Wallets | Web Wallets
 [Atomic Wallet](https://atomicwallet.io/) | [Coinomi](https://www.coinomi.com/en/) | x 
 x | [Centbee](https://centbee.com/) | x 
 
-| Tables   |      Are      |  Cool |
+| Desktop Wallets   |      Mobile Wallets      |  Web Wallets |
 |----------|:-------------:|------:|
 | [ElectrumSV](https://electrumsv.io/) |  [HandCash](https://handcash.io/) | [Freewallet](https://freewallet.org/) |
 | [Exodus](https://www.exodus.io/) |    [Edge](https://edge.app/)   |   x |
