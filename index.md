@@ -29,6 +29,6 @@ bsvlinks.com is a compiled list of articles, videos, and websites in general, th
 Desktop Wallets | Mobile Wallets | Web Wallets
 ------------ | ------------- | -------------
 [ElectrumSV](https://electrumsv.io/) | [HandCash](https://handcash.io/) | [Freewallet](https://freewallet.org/)
-[Exodus](https://www.exodus.io/) | [Edge](https://edge.app/) | -- 
-[Atomic Wallet](https://atomicwallet.io/) | [Coinomi](https://www.coinomi.com/en/) | -- 
--- | [Centbee](https://centbee.com/) | -- 
+[Exodus](https://www.exodus.io/) | [Edge](https://edge.app/) | x 
+[Atomic Wallet](https://atomicwallet.io/) | [Coinomi](https://www.coinomi.com/en/) | x 
+x | [Centbee](https://centbee.com/) | x 
