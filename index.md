@@ -7,4 +7,4 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Getting Started
 
 * [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoinsv.io/bitcoin/)
-* [BitcoinSV | The Original Bitcoin](https://bitcoinsv.io/)
+* [BitcoinSV - The Original Bitcoin](https://bitcoinsv.io/)
