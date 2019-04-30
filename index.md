@@ -32,3 +32,9 @@ Desktop Wallets | Mobile Wallets | Web Wallets
 [Exodus](https://www.exodus.io/) | [Edge](https://edge.app/) | x 
 [Atomic Wallet](https://atomicwallet.io/) | [Coinomi](https://www.coinomi.com/en/) | x 
 x | [Centbee](https://centbee.com/) | x 
+
+| Tables   |      Are      |  Cool |
+|----------|:-------------:|------:|
+| col 1 is |  left-aligned | $1600 |
+| col 2 is |    centered   |   $12 |
+| col 3 is | right-aligned |    $1 |
