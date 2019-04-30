@@ -32,3 +32,9 @@ bsvlinks.com is a compiled list of articles, videos, and websites in general, th
 | [Exodus](https://www.exodus.io/) |    [Edge](https://edge.app/)   |   x |
 | [Atomic Wallet](https://atomicwallet.io/) | [Coinomi](https://www.coinomi.com/en/) |    x |
 | x | [Centbee](https://centbee.com/) |    x |
+
+
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
