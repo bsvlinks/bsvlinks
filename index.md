@@ -1,11 +1,12 @@
 # Bitcoin SV Links & Resources
 
-You can use the [editor on GitHub](https://github.com/bsvlinks/bsvlinks/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**What is bsvlinks.com?**
+bsvlinks.com is a compiled list of articles, videos, and websites in general, that may help new people in the cryptocurrency space, when studying and researching about Bitcoin Satoshi's Vision(BSV).
 
 # Table of Contents
 1. [Getting Started](#getting-started)
+
+
 
 
 ## Getting Started
