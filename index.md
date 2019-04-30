@@ -5,11 +5,12 @@ bsvlinks.com is a compiled list of articles, videos, and websites in general, th
 
 # Table of Contents
 1. [Getting Started](#getting-started)
+2. [BSV Communities](#communities)
+3. [BSV Wallets](#wallets)
 
 <br/><br/>
 
 ## Getting Started
-
 * [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoinsv.io/bitcoin/)
 * [BitcoinSV - The Original Bitcoin](https://bitcoinsv.io/)
 
@@ -19,3 +20,15 @@ bsvlinks.com is a compiled list of articles, videos, and websites in general, th
 * [Craig Wright exclusive interview - Explains Metanet, Bitcoin SV, nChain & more](https://www.youtube.com/watch?v=ZoYnZ6CAoAk)
 * [Jimmy Nguyen: It's time for Bitcoin to grow up](https://www.youtube.com/watch?v=gR_1Lkn_364)
 * [James Belding: Bitcoin SV is set to be the global commercial ledger](https://www.youtube.com/watch?v=VW7QKOc-uJs)
+
+## Communities
+* [Reddit r/bitcoincashSV](https://www.reddit.com/r/bitcoincashSV/)
+* [Reddit r/bitcoinsv](https://www.reddit.com/r/bitcoinsv/)
+
+## Wallets
+Desktop Wallets | Mobile Wallets | Web Wallets
+------------ | ------------- | -------------
+[ElectrumSV](https://electrumsv.io/) | [HandCash](https://handcash.io/) | [Freewallet](https://freewallet.org/)
+[Exodus](https://www.exodus.io/) | [Edge](https://edge.app/) | -- 
+[Atomic Wallet](https://atomicwallet.io/) | [Coinomi](https://www.coinomi.com/en/) | -- 
+-- | [Centbee](https://centbee.com/) | -- 
