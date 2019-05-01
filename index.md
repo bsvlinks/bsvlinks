@@ -21,6 +21,7 @@ bsvlinks.com is a compiled list of articles, videos, and websites in general, th
 1. [BSV Communities](#communities)
 1. [Buy BSV](#buy-bsv)
 1. [Wallets](#wallets)
+1. [Tip Jar](#tip-jar)
 
 <br/><br/>
 
@@ -56,3 +57,16 @@ Desktop Wallets | Mobile Wallets | Web Wallets | Paper Wallets
 [Atomic Wallet](https://atomicwallet.io/) | [Coinomi](https://www.coinomi.com/en/) | x | x
 x | [Centbee](https://centbee.com/) | x | x
 
+
+
+
+
+
+
+
+
+## Tip Jar
+
+You really don't need to, but if you want to, I sincerely thank you.
+* HandCash handle: $BSVLINKS
+* BSV addess: 156SPGE1BKaef5rSRLfL3bpLUFMNRmwBzh
