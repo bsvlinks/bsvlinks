@@ -64,11 +64,10 @@ x | [Centbee](https://centbee.com/) | x | x
 
 
 
-
-
-
 ## Tip Jar
 
 You really don't need to, but if you want to, I sincerely thank you.
 * HandCash handle: $BSVLINKS
 * BSV addess: 156SPGE1BKaef5rSRLfL3bpLUFMNRmwBzh
+
+<br/><br/><br/><br/><br/><br/><br/>
