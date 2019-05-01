@@ -112,6 +112,7 @@ x | [Centbee](https://centbee.com/) | x | x
 
 #### Miscellaneous
 * [Metanet - The internet on a blockchain](https://metanet.icu/)
+* [CryptoFights - Blockchain Enabled Strategy Fighting Game](https://cryptofights.io/)
 * [WeatherSV](https://weathersv.app)
 
 ## Twitter Personalities
