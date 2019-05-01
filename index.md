@@ -35,6 +35,7 @@ bsvlinks.com is a compiled list of articles, videos, and websites in general, th
 * [The Value of Money - Why BSV will become the most valuable form of money](https://www.youtube.com/watch?v=2hboJyFyGFY)
 * [Professionalizing Bitcoin & Bcommerce - Craig Wright - CoinGeek Conference London](https://www.youtube.com/watch?v=9lRjXJmIdys)
 * [Craig Wright exclusive interview - Explains Metanet, Bitcoin SV, nChain & more](https://www.youtube.com/watch?v=ZoYnZ6CAoAk)
+* [Bitcoin SV: The Original Bitcoin & Global Public Blockchain for Enterprise - Jimmy Nguyen](https://www.youtube.com/watch?v=ZBGs-vul-E8)
 * [Jimmy Nguyen: It's time for Bitcoin to grow up](https://www.youtube.com/watch?v=gR_1Lkn_364)
 * [James Belding: Bitcoin SV is set to be the global commercial ledger](https://www.youtube.com/watch?v=VW7QKOc-uJs)
 
@@ -61,9 +62,18 @@ Desktop Wallets | Mobile Wallets | Web Wallets | Paper Wallets
 x | [Centbee](https://centbee.com/) | x | x
 
 
+## Blockchain Explorers
+
+* [svblox.com](https://svblox.com/)
+* [satoshi.io](https://satoshi.io/)
+* [bsvexplorer.info](https://bsvexplorer.info/)
+* [bchsvexplorer.com](https://bchsvexplorer.com/)
 
 
-
+## Blogs
+* [nChain blog](https://nchain.com/en/blog/)
+* [BitcoinSV.io News](https://bitcoinsv.io/news/)
+* [Craig Wright (Bitcoin SV is Bitcoin.) - Medium](https://medium.com/@craig_10243)
 
 ## Tip Jar
 
