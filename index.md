@@ -14,7 +14,6 @@
 
 
 # Bitcoin SV Links & Resources
-
 **What is bsvlinks.com?**<br/>
 bsvlinks.com is a compiled list of articles, videos, and websites in general, that may help new people in the cryptocurrency space, when studying and researching about Bitcoin Satoshi's Vision(BSV).
 
@@ -66,24 +65,46 @@ x | [Centbee](https://centbee.com/) | x | x
 
 
 ## Blogs
-
 * [nChain blog](https://nchain.com/en/blog/)
 * [BitcoinSV.io News](https://bitcoinsv.io/news/)
 * [Craig Wright (Bitcoin SV is Bitcoin.) - Medium](https://medium.com/@craig_10243)
 
 ## Blockchain Explorers
-
 * [svblox.com](https://svblox.com/)
 * [satoshi.io](https://satoshi.io/)
 * [bsvexplorer.info](https://bsvexplorer.info/)
 * [bchsvexplorer.com](https://bchsvexplorer.com/)
 
 ## Charts & Graphs
-
 * [Bitcoin SV / Charts - Blockchair](https://blockchair.com/bitcoin-sv/charts)
 * [Coin Dance BSV charts](https://sv.coin.dance/)
 * [SVCharts.com](https://www.svcharts.com/)
 * [Bitcoin SV Transactions chart](https://bitinfocharts.com/comparison/bitcoin%20sv-transactions.html)
+
+## BSV Apps
+
+### Social Media
+* [Yours.org](https://www.yours.org/)
+* [bitstragram](https://bitstagram.bitdb.network/)
+* [Memo - Bitcoin Social Network](https://memo.sv/)
+* [Literatus - where you read and write](https://en.literatus.org/)
+
+### File Storage
+* [BitcoinFiles](https://www.bitcoinfiles.org/)
+* [Bico.Media](https://bico.media/)
+* [Bitsent - LINK](https://bitsent.net/link.html)
+* [Bitok - Immortalize your voice on blockchain](https://bitok.live/)
+* [EasySign - The easiest way to digitally sign documents](https://www.easysign.io/)
+* [BitPaste - On-chain text and file sharing](https://www.bitpaste.app/)
+* [Bitcoin PageShot - Generate image from URL](https://pageshot.bitcoinsv.si/)
+
+### Web Archive
+* [immortalsv.com](https://immortalsv.com/)
+* [etched](https://etched.page/)
+
+### Miscellaneous
+* [Metanet - The internet on a blockchain](https://metanet.icu/)
+* [WeatherSV](https://weathersv.app)
 
 ## Tip Jar
 
