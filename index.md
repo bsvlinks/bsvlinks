@@ -19,12 +19,18 @@ bsvlinks.com is a compiled list of articles, videos, and websites in general, th
 
 ## Table of Contents
 1. [Getting Started](#getting-started)
+  * [Videos](#videos)
 1. [BSV Communities](#communities)
 1. [Buy BSV](#buy-bsv)
 1. [Wallets](#wallets)
 1. [Blogs](#blogs)
 1. [Blockchain Explorers](#blockchain-explorers)
 1. [Charts & Graphs](#charts--graphs)
+1. [Apps](#apps)
+  * [Social Media](#social-media)
+  * [File Storage](#file-storage)
+  * [Web Archive](#web-archive)
+  * [Miscellaneous](#miscellaneous)
 1. [<span style="color:#f4bf42">Tip Jar</span>](#tip-jar)
 
 <br/><br/>
@@ -81,7 +87,7 @@ x | [Centbee](https://centbee.com/) | x | x
 * [SVCharts.com](https://www.svcharts.com/)
 * [Bitcoin SV Transactions chart](https://bitinfocharts.com/comparison/bitcoin%20sv-transactions.html)
 
-## BSV Apps
+## Apps
 
 #### Social Media
 * [Yours.org](https://www.yours.org/)
