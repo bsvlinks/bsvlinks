@@ -8,7 +8,7 @@
   gtag('config', 'UA-84375203-8');
 </script>
 
-<link rel="shortcut icon" type="image/png" href="/bsvlogo.png"/>
+<link rel="shortcut icon" type="image/png" href="https://i.imgur.com/QChVubo.png"/>
 
 
 
