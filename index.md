@@ -62,6 +62,12 @@ Desktop Wallets | Mobile Wallets | Web Wallets | Paper Wallets
 x | [Centbee](https://centbee.com/) | x | x
 
 
+## Blogs
+
+* [nChain blog](https://nchain.com/en/blog/)
+* [BitcoinSV.io News](https://bitcoinsv.io/news/)
+* [Craig Wright (Bitcoin SV is Bitcoin.) - Medium](https://medium.com/@craig_10243)
+
 ## Blockchain Explorers
 
 * [svblox.com](https://svblox.com/)
@@ -69,11 +75,12 @@ x | [Centbee](https://centbee.com/) | x | x
 * [bsvexplorer.info](https://bsvexplorer.info/)
 * [bchsvexplorer.com](https://bchsvexplorer.com/)
 
+## Charts & Graphs
 
-## Blogs
-* [nChain blog](https://nchain.com/en/blog/)
-* [BitcoinSV.io News](https://bitcoinsv.io/news/)
-* [Craig Wright (Bitcoin SV is Bitcoin.) - Medium](https://medium.com/@craig_10243)
+* [Bitcoin SV / Charts - Blockchair](https://blockchair.com/bitcoin-sv/charts)
+* [Coin Dance BSV charts](https://sv.coin.dance/)
+* [SVCharts.com](https://www.svcharts.com/)
+* [Bitcoin SV Transactions chart](https://bitinfocharts.com/comparison/bitcoin%20sv-transactions.html)
 
 ## Tip Jar
 
