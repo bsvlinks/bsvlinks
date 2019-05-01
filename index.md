@@ -31,6 +31,7 @@ bsvlinks.com is a compiled list of articles, videos, and websites in general, th
   * [File Storage](#file-storage)
   * [Web Archive](#web-archive)
   * [Miscellaneous](#miscellaneous)
+1. [Twitter Personalities](#twitter-personalities)
 1. [<span style="color:#f4bf42">Tip Jar</span>](#tip-jar)
 
 <br/><br/>
@@ -74,6 +75,7 @@ x | [Centbee](https://centbee.com/) | x | x
 * [nChain blog](https://nchain.com/en/blog/)
 * [BitcoinSV.io News](https://bitcoinsv.io/news/)
 * [Craig Wright (Bitcoin SV is Bitcoin.) - Medium](https://medium.com/@craig_10243)
+* [Bitcoin SV - CoinGeek](https://coingeek.com/news/tag/bitcoin-sv/)
 
 ## Blockchain Explorers
 * [svblox.com](https://svblox.com/)
@@ -112,8 +114,14 @@ x | [Centbee](https://centbee.com/) | x | x
 * [Metanet - The internet on a blockchain](https://metanet.icu/)
 * [WeatherSV](https://weathersv.app)
 
-## Tip Jar
+## Twitter Personalities
+* [Jimmy Nguyen](https://twitter.com/jimmywinmedia)
+* [Ryan X. Charles](https://twitter.com/ryanxcharles)
+* [Kevin Pham](https://twitter.com/_kevin_pham)
+* [_unwriter](https://twitter.com/_unwriter)
+* [Calvin Ayre](https://twitter.com/CalvinAyre)
 
+## Tip Jar
 You really don't need to, but if you want to, I sincerely thank you.
 * HandCash handle: $BSVLINKS
 * BSV addess: 156SPGE1BKaef5rSRLfL3bpLUFMNRmwBzh
