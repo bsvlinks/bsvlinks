@@ -10,6 +10,7 @@
 
 
 
+
 # Bitcoin SV Links & Resources
 
 **What is bsvlinks.com?**<br/>
@@ -36,6 +37,14 @@ bsvlinks.com is a compiled list of articles, videos, and websites in general, th
 ## Communities
 * [Reddit r/bitcoincashSV](https://www.reddit.com/r/bitcoincashSV/)
 * [Reddit r/bitcoinsv](https://www.reddit.com/r/bitcoinsv/)
+
+## Buy BSV
+* [Float SV](https://www.floatsv.com/)
+* [Bitfinex](https://www.bitfinex.com/)
+* [Bittrex](https://bittrex.com/)
+* [Poloniex](https://poloniex.com/)
+* [OKEx](https://www.kucoin.com/)
+* [HitBTC](https://hitbtc.com/)
 
 ## Wallets
 
