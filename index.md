@@ -33,7 +33,7 @@ bsvlinks.com is a compiled list of articles, videos, and websites in general, th
 * [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoinsv.io/bitcoin/)
 * [BitcoinSV - The Original Bitcoin](https://bitcoinsv.io/)
 
-### Videos
+#### Videos
 * [The Value of Money - Why BSV will become the most valuable form of money](https://www.youtube.com/watch?v=2hboJyFyGFY)
 * [Professionalizing Bitcoin & Bcommerce - Craig Wright - CoinGeek Conference London](https://www.youtube.com/watch?v=9lRjXJmIdys)
 * [Craig Wright exclusive interview - Explains Metanet, Bitcoin SV, nChain & more](https://www.youtube.com/watch?v=ZoYnZ6CAoAk)
@@ -83,13 +83,13 @@ x | [Centbee](https://centbee.com/) | x | x
 
 ## BSV Apps
 
-### Social Media
+#### Social Media
 * [Yours.org](https://www.yours.org/)
 * [bitstragram](https://bitstagram.bitdb.network/)
 * [Memo - Bitcoin Social Network](https://memo.sv/)
 * [Literatus - where you read and write](https://en.literatus.org/)
 
-### File Storage
+#### File Storage
 * [BitcoinFiles](https://www.bitcoinfiles.org/)
 * [Bico.Media](https://bico.media/)
 * [Bitsent - LINK](https://bitsent.net/link.html)
@@ -98,11 +98,11 @@ x | [Centbee](https://centbee.com/) | x | x
 * [BitPaste - On-chain text and file sharing](https://www.bitpaste.app/)
 * [Bitcoin PageShot - Generate image from URL](https://pageshot.bitcoinsv.si/)
 
-### Web Archive
+#### Web Archive
 * [immortalsv.com](https://immortalsv.com/)
 * [etched](https://etched.page/)
 
-### Miscellaneous
+#### Miscellaneous
 * [Metanet - The internet on a blockchain](https://metanet.icu/)
 * [WeatherSV](https://weathersv.app)
 
