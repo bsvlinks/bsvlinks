@@ -18,8 +18,9 @@ bsvlinks.com is a compiled list of articles, videos, and websites in general, th
 
 # Table of Contents
 1. [Getting Started](#getting-started)
-2. [BSV Communities](#communities)
-3. [BSV Wallets](#wallets)
+1. [BSV Communities](#communities)
+1. [Buy BSV](#buy-bsv)
+1. [Wallets](#wallets)
 
 <br/><br/>
 
