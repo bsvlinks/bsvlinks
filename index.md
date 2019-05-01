@@ -18,7 +18,7 @@
 **What is bsvlinks.com?**<br/>
 bsvlinks.com is a compiled list of articles, videos, and websites in general, that may help new people in the cryptocurrency space, when studying and researching about Bitcoin Satoshi's Vision(BSV).
 
-# Table of Contents
+## Table of Contents
 1. [Getting Started](#getting-started)
 1. [BSV Communities](#communities)
 1. [Buy BSV](#buy-bsv)
@@ -41,6 +41,7 @@ bsvlinks.com is a compiled list of articles, videos, and websites in general, th
 ## Communities
 * [Reddit r/bitcoincashSV](https://www.reddit.com/r/bitcoincashSV/)
 * [Reddit r/bitcoinsv](https://www.reddit.com/r/bitcoinsv/)
+* [Bitcoin SV Discord Channel](https://discord.gg/xNWbNKE)
 
 ## Buy BSV
 * [Float SV](https://www.floatsv.com/)
