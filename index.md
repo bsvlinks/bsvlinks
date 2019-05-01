@@ -23,6 +23,9 @@ bsvlinks.com is a compiled list of articles, videos, and websites in general, th
 1. [BSV Communities](#communities)
 1. [Buy BSV](#buy-bsv)
 1. [Wallets](#wallets)
+1. [Blogs](#blogs)
+1. [Blockchain Explorers](#blockchain-explorers)
+1. [Charts & Graphs](#charts--graphs)
 1. [<span style="color:#f4bf42">Tip Jar</span>](#tip-jar)
 
 <br/><br/>
