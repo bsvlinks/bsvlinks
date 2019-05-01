@@ -23,7 +23,7 @@ bsvlinks.com is a compiled list of articles, videos, and websites in general, th
 1. [BSV Communities](#communities)
 1. [Buy BSV](#buy-bsv)
 1. [Wallets](#wallets)
-1. [Tip Jar](#tip-jar)
+1. <span style="color:gold">[Tip Jar](#tip-jar)</span>
 
 <br/><br/>
 
