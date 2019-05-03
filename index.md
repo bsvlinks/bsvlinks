@@ -17,6 +17,8 @@
 **What is bsvlinks.com?**<br/>
 bsvlinks.com is a compiled list of articles, videos, and websites in general, that may help people in the cryptocurrency space when studying and researching about Bitcoin Satoshi’s Vision(BSV).
 
+**Last Update: May 04, 2019**
+
 ## Table of Contents
 1. [Getting Started](#getting-started)
   * [Videos](#videos)
@@ -114,6 +116,7 @@ x | [Centbee](https://centbee.com/) | x | x
 * [Metanet - The internet on a blockchain](https://metanet.icu/)
 * [CryptoFights - Blockchain Enabled Strategy Fighting Game](https://cryptofights.io/)
 * [WeatherSV](https://weathersv.app)
+* [Bottle - Blockchain browser](https://bottle.bitdb.network/)
 
 ## Twitter Personalities
 * [Jimmy Nguyen](https://twitter.com/jimmywinmedia)
