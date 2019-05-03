@@ -17,8 +17,9 @@
 **What is bsvlinks.com?**<br/>
 bsvlinks.com is a compiled list of articles, videos, and websites in general, that may help people in the cryptocurrency space when studying and researching about Bitcoin Satoshi’s Vision(BSV).
 
-**Last Update: May 04, 2019**
+**Last Updated: May 04, 2019**
 
+<br/>
 ## Table of Contents
 1. [Getting Started](#getting-started)
   * [Videos](#videos)
