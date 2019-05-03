@@ -14,9 +14,9 @@
 
 
 # Bitcoin SV Links & Resources
-
+<br/>
 Created for the BSV community.
-
+<br/>
 **Last updated: May 04, 2019**
 
 <br/>
