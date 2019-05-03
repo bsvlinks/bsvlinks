@@ -15,7 +15,7 @@
 
 # Bitcoin SV Links & Resources
 **What is bsvlinks.com?**<br/>
-bsvlinks.com is a compiled list of articles, videos, and websites in general, that may help people in the cryptocurrency space when studying and researching about Bitcoin Satoshi’s Vision(BSV).
+bsvlinks.com is a compiled list of articles, videos, and websites in general, that may help people in the cryptocurrency space when studying and researching about Bitcoin Satoshi’s Vision(BSV), the original bitcoin that follows Satoshi's [bitcoin whitepaper](https://nakamotoinstitute.org/bitcoin/) that was released in 2008.
 
 **Last Updated: May 04, 2019**
 
