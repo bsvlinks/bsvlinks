@@ -137,7 +137,7 @@ You really don't need to, but if you want to, I sincerely thank you.
 * HandCash handle: $BSVLINKS
 * BSV addess: 156SPGE1BKaef5rSRLfL3bpLUFMNRmwBzh
 
-<img src="https://raw.githubusercontent.com/bsvlinks/bsvlinks/master/donate.jpg" alt="donate qr code" width="200"/>
+<img src="https://raw.githubusercontent.com/bsvlinks/bsvlinks/master/tipjar.png" alt="donate qr code" width="200"/>
 
 
 <br/><br/><br/><br/><br/><br/><br/>
