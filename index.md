@@ -28,7 +28,8 @@ Dedicated to the BSV community.
 1. [Buy BSV](#buy-bsv)
 1. [Wallets](#wallets)
 1. [Blogs](#blogs)
-1. [Blockchain Explorers](#blockchain-explorers)
+1. [Tools](#tools)
+  * [Blockchain Explorers](#blockchain-explorers)
 1. [Charts & Graphs](#charts--graphs)
 1. [Apps](#apps)
   * [Social Media](#social-media)
@@ -85,7 +86,10 @@ x | [Centbee](https://centbee.com/) | x | x
 * [Craig Wright (Bitcoin SV is Bitcoin.) - Medium](https://medium.com/@craig_10243)
 * [Bitcoin SV - CoinGeek](https://coingeek.com/news/tag/bitcoin-sv/)
 
-## Blockchain Explorers
+## Tools
+* [bitgraph - Bitcoin block explorer](https://bitgraph.network)
+
+#### Blockchain Explorers
 * [svblox.com](https://svblox.com/)
 * [satoshi.io](https://satoshi.io/)
 * [bsvexplorer.info](https://bsvexplorer.info/)
