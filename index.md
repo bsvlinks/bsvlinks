@@ -17,7 +17,7 @@
 <br/>
 Dedicated to the BSV community.
 <br/><br/>
-**Last updated: May 21, 2019**
+**Last updated: May 22, 2019**
 
 <br/>
 ## Table of Contents
@@ -29,6 +29,7 @@ Dedicated to the BSV community.
 1. [Wallets](#wallets)
 1. [Blogs](#blogs)
 1. [YouTube Channels](#youtube-channels)
+1. Podcasts(#podcasts)
 1. [Tools](#tools)
   * [Blockchain Explorers](#blockchain-explorers)
 1. [Charts & Graphs](#charts--graphs)
@@ -94,6 +95,9 @@ x | [Centbee](https://centbee.com/) | x | x
 * [nChain](https://www.youtube.com/channel/UCBCpqi_Kdc3BNgm0Kub-x_g)
 * [Money Button](https://www.youtube.com/channel/UCHyU7zkMUZc1dOD-oJ-lArw)
 * [Ryan X. Charles](https://www.youtube.com/user/ryanxcharles)
+
+## Podcasts
+* [CoinGeek Conversations](https://241544.buzzsprout.com/)
 
 ## Tools
 * [bitgraph - Bitcoin block explorer](https://bitgraph.network)
