@@ -27,7 +27,6 @@ Dedicated to the BSV community.
 1. [BSV Communities](#communities)
 1. [Buy BSV](#buy-bsv)
 1. [Wallets](#wallets)
-1. [Chatrooms](#chatrooms)
 1. [Blogs](#blogs)
 1. [YouTube Channels](#youtube-channels)
 1. [Podcasts](#podcasts)
@@ -64,6 +63,7 @@ bsvlinks.com is a compiled list of articles, videos, and websites in general, th
 * [Reddit r/bitcoincashSV](https://www.reddit.com/r/bitcoincashSV/)
 * [Reddit r/bitcoinsv](https://www.reddit.com/r/bitcoinsv/)
 * [Bitcoin SV Discord Channel](https://discord.gg/xNWbNKE)
+* [Atlantis - Bitcoin Maximalist Builders Collective](https://bitdb.network/atlantis)
 
 ## Buy BSV
 * [Float SV](https://www.floatsv.com/)
@@ -82,9 +82,6 @@ Desktop Wallets | Mobile Wallets | Web Wallets | Paper Wallets
 [Atomic Wallet](https://atomicwallet.io/) | [Coinomi](https://www.coinomi.com/en/) | x | x
 x | [Centbee](https://centbee.com/) | x | x
 
-## Chatrooms
-* [Bitcoin SV Discord Channel](https://discordapp.com/invite/xNWbNKE)
-* [Atlantis - Bitcoin Maximalist Builders Collective](https://bitdb.network/atlantis)
 
 ## Blogs
 * [nChain blog](https://nchain.com/en/blog/)
