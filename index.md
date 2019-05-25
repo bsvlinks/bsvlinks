@@ -17,7 +17,7 @@
 <br/>
 Dedicated to the BSV community.
 <br/><br/>
-**Last updated: May 22, 2019**
+**Last updated: May 25, 2019**
 
 <br/>
 ## Table of Contents
@@ -27,6 +27,7 @@ Dedicated to the BSV community.
 1. [BSV Communities](#communities)
 1. [Buy BSV](#buy-bsv)
 1. [Wallets](#wallets)
+1. [Chatrooms](#chatrooms)
 1. [Blogs](#blogs)
 1. [YouTube Channels](#youtube-channels)
 1. Podcasts(#podcasts)
@@ -39,7 +40,7 @@ Dedicated to the BSV community.
   * [Web Archive](#web-archive)
   * [Miscellaneous](#miscellaneous)
 1. [Twitter Personalities](#twitter-personalities)
-1. [<span style="color:#f4bf42">Tip Jar</span>](#tip-jar)
+1. [<span style="color:green">Tip Jar</span>](#tip-jar)
 
 <br/><br/>
 
@@ -81,10 +82,14 @@ Desktop Wallets | Mobile Wallets | Web Wallets | Paper Wallets
 [Atomic Wallet](https://atomicwallet.io/) | [Coinomi](https://www.coinomi.com/en/) | x | x
 x | [Centbee](https://centbee.com/) | x | x
 
+## Chatrooms
+* [Bitcoin SV Discord Channel](https://discordapp.com/invite/xNWbNKE)
+* [Atlantis - Bitcoin Maximalist Builders Collective](https://bitdb.network/atlantis)
 
 ## Blogs
 * [nChain blog](https://nchain.com/en/blog/)
 * [BitcoinSV.io News](https://bitcoinsv.io/news/)
+* [Craig Wright - craigwright.net](https://craigwright.net/)
 * [Craig Wright (Bitcoin SV is Bitcoin.) - Medium](https://medium.com/@craig_10243)
 * [Bitcoin SV - CoinGeek](https://coingeek.com/news/tag/bitcoin-sv/)
 
