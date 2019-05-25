@@ -30,7 +30,7 @@ Dedicated to the BSV community.
 1. [Chatrooms](#chatrooms)
 1. [Blogs](#blogs)
 1. [YouTube Channels](#youtube-channels)
-1. Podcasts(#podcasts)
+1. [Podcasts](#podcasts)
 1. [Tools](#tools)
   * [Blockchain Explorers](#blockchain-explorers)
 1. [Charts & Graphs](#charts--graphs)
