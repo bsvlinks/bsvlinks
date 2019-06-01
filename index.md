@@ -81,6 +81,7 @@ Desktop Wallets | Mobile Wallets | Web Wallets | Paper Wallets
 [Exodus](https://www.exodus.io/) | [Edge](https://edge.app/) | [Money Button](https://www.moneybutton.com/) | x
 [Atomic Wallet](https://atomicwallet.io/) | [Coinomi](https://www.coinomi.com/en/) | x | x
 x | [Centbee](https://centbee.com/) | x | x
+x | [RelayX](https://relayx.io/) | x | x
 
 
 ## Blogs
@@ -126,6 +127,7 @@ x | [Centbee](https://centbee.com/) | x | x
 * [Literatus - where you read and write](https://en.literatus.org/)
 
 #### File Storage
+* [audioB - Audio Sharing Platform](https://www.audiob.app/)
 * [BitcoinFiles](https://www.bitcoinfiles.org/)
 * [Bico.Media](https://bico.media/)
 * [Bitsent - LINK](https://bitsent.net/link.html)
