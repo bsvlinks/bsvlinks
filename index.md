@@ -101,6 +101,7 @@ x | [RelayX](https://relayx.io/) | x | x
 
 ## Podcasts
 * [CoinGeek Conversations](https://241544.buzzsprout.com/)
+* [Bitstocks Podcast](https://bitstocks.podbean.com/)
 
 ## Tools
 * [bitgraph - Bitcoin block explorer](https://bitgraph.network)
