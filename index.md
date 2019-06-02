@@ -162,7 +162,7 @@ You really don't need to, but if you want to, I sincerely thank you.
   data-to="156SPGE1BKaef5rSRLfL3bpLUFMNRmwBzh"
   data-editable="true"
   data-currency="USD"
-  data-label="Donate"
+  data-label="Tip"
   data-client-identifier="720ea8d9353a345c2d483672ad03b4c6"
   data-button-id="1559455574422"
   data-button-data="{}"
