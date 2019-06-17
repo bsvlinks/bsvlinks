@@ -17,7 +17,7 @@
 <br/>
 Dedicated to the BSV community.
 <br/><br/>
-**Last updated: June 01, 2019**
+**Last updated: June 17, 2019**
 
 <br/>
 ## Table of Contents
@@ -98,6 +98,7 @@ x | [RelayX](https://relayx.io/) | x | x
 * [nChain](https://www.youtube.com/channel/UCBCpqi_Kdc3BNgm0Kub-x_g)
 * [Money Button](https://www.youtube.com/channel/UCHyU7zkMUZc1dOD-oJ-lArw)
 * [Ryan X. Charles](https://www.youtube.com/user/ryanxcharles)
+* [SirToshi V](https://youtube.com/channel/UCa1D8y2ib7p8Fvqg695zS3Q)
 
 ## Podcasts
 * [CoinGeek Conversations](https://241544.buzzsprout.com/)
