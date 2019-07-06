@@ -17,7 +17,7 @@
 <br/>
 Dedicated to the BSV community.
 <br/><br/>
-**Last updated: June 17, 2019**
+**Last updated: July 06, 2019**
 
 <br/>
 ## Table of Contents
@@ -126,27 +126,33 @@ x | [RelayX](https://relayx.io/) | x | x
 * [Yours.org](https://www.yours.org/)
 * [bitstragram](https://bitstagram.bitdb.network/)
 * [Memo - Bitcoin Social Network](https://memo.sv/)
+* [Twetch](https://twetch.app)
 * [Literatus - where you read and write](https://en.literatus.org/)
 
 #### File Storage
 * [audioB - Audio Sharing Platform](https://www.audiob.app/)
 * [BitcoinFiles](https://www.bitcoinfiles.org/)
 * [Bico.Media](https://bico.media/)
+* [bitdb](https://bitdb.network/)
 * [Bitsent - LINK](https://bitsent.net/link.html)
 * [Bitok - Immortalize your voice on blockchain](https://bitok.live/)
 * [EasySign - The easiest way to digitally sign documents](https://www.easysign.io/)
 * [BitPaste - On-chain text and file sharing](https://www.bitpaste.app/)
 * [Bitcoin PageShot - Generate image from URL](https://pageshot.bitcoinsv.si/)
 
+#### Internet on the BSV blockchain
+* [Metanet - The internet on a blockchain](https://metanet.icu/)
+* [Bottle - Blockchain browser](https://bottle.bitdb.network/)
+* [Oyo.cash - BSV Search Engline](https://oyo.cash/)
+* [Trends.cash - BSV Network Trends](https://trends.cash/)
+
 #### Web Archive
 * [immortalsv.com](https://immortalsv.com/)
 * [etched](https://etched.page/)
 
 #### Miscellaneous
-* [Metanet - The internet on a blockchain](https://metanet.icu/)
 * [CryptoFights - Blockchain Enabled Strategy Fighting Game](https://cryptofights.io/)
 * [WeatherSV](https://weathersv.app)
-* [Bottle - Blockchain browser](https://bottle.bitdb.network/)
 
 ## Twitter Personalities
 * [Jimmy Nguyen](https://twitter.com/jimmywinmedia)
