@@ -10,7 +10,7 @@
 
 <link rel="shortcut icon" type="image/png" href="https://i.imgur.com/QChVubo.png"/>
 
-<center><img src="https://i.imgur.com/k2S7M0d.png" alt="BitcoinSV" height="150"/></center>
+<center><img src="https://i.imgur.com/k2S7M0d.png" alt="BitcoinSV" height="80"/></center>
 
 # Bitcoin SV Links & Resources
 <br/>
