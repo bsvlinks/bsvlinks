@@ -10,8 +10,6 @@
 
 <link rel="shortcut icon" type="image/png" href="https://i.imgur.com/QChVubo.png"/>
 
-<center>![BitcoinSV](https://bitcoinsv.io/wp-content/uploads/2019/01/BSV_nav_bar_logo.png "BitcoinSV")</center>
-<br/>
 
 
 # Bitcoin SV Links & Resources
