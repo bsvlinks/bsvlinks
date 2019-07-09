@@ -66,6 +66,7 @@ bsvlinks.com is a compiled list of articles, videos, and websites in general, th
 
 ## Buy BSV
 * [Float SV](https://www.floatsv.com/)
+* [Buy BSV](https://buybsv.com/)
 * [Bitfinex](https://www.bitfinex.com/)
 * [Bittrex](https://bittrex.com/)
 * [Poloniex](https://poloniex.com/)
