@@ -16,7 +16,6 @@
 <br/>
 Dedicated to the BSV community.
 <br/><br/>
-**Last updated: July 06, 2019**
 
 <br/>
 ## Table of Contents
